@@ -26,6 +26,7 @@
   font-weight: 400;
   font-size: 20px;
   color: var(--main-text-color);
+  overflow-y: auto; /* Allows content to scroll inside */
 }
 
 .logoText {
