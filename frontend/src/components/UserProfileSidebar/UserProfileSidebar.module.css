@@ -4,10 +4,8 @@
   max-width: 100%;
   padding-bottom: 1rem;
   padding-left: 0.8rem;
-  position: sticky; 
+  position:sticky;
   bottom: 0;
-  padding: 1rem 16px;
-    
 }
 
 .user-details-container {
